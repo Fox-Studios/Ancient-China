@@ -1,9 +1,6 @@
-# Fabric Example Mod
+# Ancient-China
+一个致力于创造美丽的中国古代场景的mod
+A mod dedicated to creating a beautiful ancient Chinese scene
 
-## Setup
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+# setup
