@@ -1,25 +1,25 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "ncientchina",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "华夏画卷",
+  "description": "华夏画卷",
   "authors": [
-    "Me!"
+    "Gu_ZT"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://Ancient-China.foxmc.club/",
+    "sources": "https://github.com/Fox-Studios"
   },
 
-  "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "license": "GPL3.0",
+  "icon": "assets/textures/icon/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "club.foxmc.ncientchina.ExampleMod"
     ]
   },
   "mixins": [
