@@ -42,7 +42,6 @@ IntelliJ IDEA用户可以使用MinecraftDev插件来自动生成Fabric模组项�
 ### Visual Studio Code
 如果你使用的是Visual Studio Code，请参照[这篇教程](https://fabricmc.net/wiki/zh_cn:tutorial:vscode_setup "zh_cn:tutorial:vscode_setup")。
 
-##故障诊断
-
-###缺少声音
+## 故障诊断
+### 缺少声音
 有时当IDE在导入Gradle项目的时候有些游戏素材不会正常下载。如果遇到这种情况则要手动运行`downloadAssets`任务——既可以使用IDE的自带菜单也可以直接执行`gradlew downloadAssets`。
