@@ -1,4 +1,4 @@
-package club.foxmc.ncientchina.mixin;
+package club.foxmc.AcientChina.core.mixin;
 
 import net.minecraft.client.gui.screen.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;

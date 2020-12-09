@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "club.foxmc.ncientchina.ExampleMod"
+      "club.foxmc.AncientChina.ExampleMod"
     ]
   },
   "mixins": [
