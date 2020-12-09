@@ -6,11 +6,11 @@ A mod dedicated to creating a beautiful ancient Chinese scene
 
 
 # setup
-##前置
+## 前置
 * **JDK**（即用于开发Java的工具，推荐使用由AdoptOpenJDK提供的Java 8及以上版本的JDK https://adoptopenjdk.net/）
 * **任意IDE**（集成开发环境）：如IntelliJ IDEA和Eclipse，也可使用任何可编辑代码的文本编辑器，如Visual Studio Code。
 
-##步骤
+## 步骤
 1. 在`build.gradle`中加入任何需要的其他第三方库。（一般会在模组页面/代码库上给出方法）
 2. 将`build.gradle`导入到你的IDE中（各IDE操作各有不同，具体见下）
 3. 配置完成！祝武运昌隆（bushi
