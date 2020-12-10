@@ -1,29 +1,29 @@
 {
   "schemaVersion": 1,
-  "id": "ncientchina",
-  "version": "${version}",
+  "id": "ancientchina",
+  "version": "1.0.0",
 
-  "name": "华夏画卷",
-  "description": "华夏画卷",
+  "name": "华夏画卷-道衍",
+  "description": "华夏画卷-道衍",
   "authors": [
     "Gu_ZT"
   ],
   "contact": {
     "homepage": "https://Ancient-China.foxmc.club/",
-    "sources": "https://github.com/Fox-Studios"
+    "sources": "https://github.com/Fox-Studios/"
   },
 
   "license": "GPL3.0",
-  "icon": "assets/textures/icon/icon.png",
+  "icon": "assets/acn/textures/icon/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "club.foxmc.AncientChina.ExampleMod"
+      "club.foxmc.ancientchina.core.ExampleMod"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "ancientchina.mixins.json"
   ],
 
   "depends": {
