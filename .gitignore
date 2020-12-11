@@ -31,6 +31,3 @@ bin/
 # fabric
 
 run/
-caches/
-daemon/
-native/

@@ -1,29 +1,29 @@
 {
   "schemaVersion": 1,
-  "id": "ancientchina",
-  "version": "1.0.0",
+  "id": "modid",
+  "version": "${version}",
 
-  "name": "华夏画卷-道衍",
-  "description": "华夏画卷-道衍",
+  "name": "Example Mod",
+  "description": "This is an example description! Tell everyone what your mod is about!",
   "authors": [
-    "Gu_ZT"
+    "Me!"
   ],
   "contact": {
-    "homepage": "https://Ancient-China.foxmc.club/",
-    "sources": "https://github.com/Fox-Studios/"
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/FabricMC/fabric-example-mod"
   },
 
-  "license": "GPL3.0",
-  "icon": "assets/acn/textures/icon/icon.png",
+  "license": "CC0-1.0",
+  "icon": "assets/modid/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "club.foxmc.ancientchina.core.ExampleMod"
+      "net.fabricmc.example.ExampleMod"
     ]
   },
   "mixins": [
-    "ancientchina.mixins.json"
+    "modid.mixins.json"
   ],
 
   "depends": {
