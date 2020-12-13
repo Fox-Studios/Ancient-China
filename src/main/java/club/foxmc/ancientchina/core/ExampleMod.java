@@ -1,4 +1,4 @@
-package net.fabricmc.example;
+package club.foxmc.ancientchina.core;
 
 import net.fabricmc.api.ModInitializer;
 

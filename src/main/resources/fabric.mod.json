@@ -1,29 +1,29 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
-  "version": "${version}",
+  "id": "ancientchina",
+  "version": "0.0.1",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Ancient China",
+  "description": "华夏画卷",
   "authors": [
-    "Me!"
+    "Gu_ZT"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://ancientchina.foxmc.club/",
+    "sources": "https://github.com/Fox-Studios/Ancient-China"
   },
 
-  "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "license": "GPL-3.0",
+  "icon": "assets/ancientchina/textures/icon/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "club.foxmc.ancientchina.core.ExampleMod"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "ancientchina.mixins.json"
   ],
 
   "depends": {
